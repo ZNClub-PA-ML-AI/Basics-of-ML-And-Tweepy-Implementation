@@ -1,1 +1,20 @@
+Machine learning is a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed.
+Machine learning focuses on the development of computer programs that can teach themselves to grow and change when exposed to new data. 
 
+The process of machine learning is similar to that of data mining. 
+Both systems search through data to look for patterns.
+
+However, instead of extracting data for human comprehension -- as is the case in data mining applications -- machine learning uses that data to detect patterns in data and adjust program actions accordingly. 
+
+Machine learning algorithms are often categorized as being supervised or unsupervized. 
+Supervised algorithms can apply what has been learned in the past to new data. 
+Unsupervised algorithms can draw inferences from datasets.
+
+Facebook's News Feed uses machine learning to personalize each member's feed. 
+If a member frequently stops scrolling in order to read or "like" a particular friend's posts, the News Feed will start to show more of that friend's activity earlier in the feed. Behind the scenes, the software is simply using statistical analysis and predictive analytics to identify patterns in the user's data and use to patterns to populate the News Feed.
+Should the member no longer stop to read, like or comment on the friend's posts, that new data will be included in the data set and the News Feed will adjust accordingly.
+
+Predictive analytics:
+Predictive analytics is the next step up in data reduction. It utilizes a variety of statistical, modeling, data mining, and machine learning techniques to study recent and historical data, thereby allowing analysts to make predictions about the future.
+"The purpose of predictive analytics is NOT to tell you what will happen in the future," Wu blogged. "It cannot do that. In fact, no analytics can do that. Predictive analytics can only forecast what might happen in the future, because all predictive analytics are probabilistic in nature."
+In the most general cases of predictive analytics, "you basically take data that you have to predict data you don't have,"
